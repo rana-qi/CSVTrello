@@ -1,0 +1,6 @@
+@CSVTrello_HostAddress = http://localhost:5197
+
+GET {{CSVTrello_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
